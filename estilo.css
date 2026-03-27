@@ -1,0 +1,14 @@
+body { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.pulsante {
+    background-color: rgb(71, 20, 119);
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
