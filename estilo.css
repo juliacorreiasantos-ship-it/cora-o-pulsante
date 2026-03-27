@@ -7,8 +7,9 @@ body {
 }
 
 .pulsante {
-    background-color: rgb(71, 20, 119);
+    background-color: rgb(166, 11, 11);
     position: relative;
     height: 100px;
     width: 100px;
+    transform: rotate(-45deg) scale(1);
 }
